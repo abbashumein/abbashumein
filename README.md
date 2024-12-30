@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 I'm Ali Abbas, a computer science graduate with over 1.5 years of experience in data analysis using Python, Tableau, Power BI, and SQL. I'm interested in pursuing a career in data science and machine learning!
 - 🔭 I’m currently working on Machine Learning projects and actively looking for jobs!
