@@ -5,6 +5,8 @@ I'm Ali Abbas, a computer science graduate with over 1.5 years of experience in 
 - 🌱 I’m currently learning Flask
 - 📫 How to reach me: aliabbas00125@gmail.com!
 - 👯 I’m looking to provide services on Data Analysis including Python, Tableau, Power BI and SQL!
+[![Ali's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abbashumein&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abbashumein/github-readme-stats#gh-dark-mode-only)
+
 
 <!--
 **abbashumein/abbashumein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
