@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Ali Abbas, a computer science graduate with over 1.5 years of experience in data analysis using Python, Tableau, Power BI, and SQL. I'm interested in pursuing a career in data science and machine learning!
+- 🔭 I’m currently working on ... Machine Learning!
+- 🌱 I’m currently learning ... Flask!
+- 📫 How to reach me: ... aliabbas00125@gmail.com!
+- 👯 I’m looking to provide services on Data Analysis including Python, Tableau, Power BI and SQL!
+
 <!--
 **abbashumein/abbashumein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
