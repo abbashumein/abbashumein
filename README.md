@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ali Abbas, a computer science graduate with over 1.5 years of experience in data analysis using Python, Tableau, Power BI, and SQL. I'm interested in pursuing a career in data science and machine learning!
+I'm Ali Abbas, a computer science graduate with strong expertise in data analysis using Python, Tableau, Power BI, and SQL. I'm interested in pursuing a career in data science and machine learning!
 - 🔭 I’m currently working on Machine Learning projects and actively looking for jobs!
 - 🌱 I’m currently learning Flask
 - 📫 How to reach me: aliabbas00125@gmail.com!
