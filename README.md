@@ -4,7 +4,7 @@ I'm Ali Abbas, a computer science graduate with strong expertise in data analysi
 - 🔭 I’m currently working on Machine Learning projects and actively looking for jobs!
 - 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me: aliabbas00125@gmail.com!
-- 👯 I’m looking to provide services on Data Analysis including Python, Tableau, Power BI and SQL!
+- 👯 I’m looking to provide services on Data Analysis including Python, Machine Learning, Tableau, Power BI and SQL!
 
 
 [![Ali's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abbashumein&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abbashumein/github-readme-stats#gh-dark-mode-only)
